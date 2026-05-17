@@ -109,8 +109,8 @@ Before starting, ensure you have installed:
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/RobertoCV10/github-analytics-dashboard.git
-cd github-analytics-dashboard
+git clone https://github.com/RobertoCV10/GitScope.git
+cd GitScope
 ```
 
 #### 2. Install dependencies
@@ -205,7 +205,7 @@ Main MD3 colors:
 ## Project Structure
 
 ```
-github-analytics-dashboard/
+GitScope/
 ├── public/
 │   └── vite.svg
 ├── src/
@@ -521,7 +521,7 @@ Contributions are welcome!
 
 ### Issues and Suggestions
 
-- Use [GitHub Issues](https://github.com/RobertoCV10/github-analytics-dashboard/issues) to report bugs or suggest improvements
+- Use [GitHub Issues](https://github.com/RobertoCV10/GitScope/issues) to report bugs or suggest improvements
 - Before implementing a large feature, open an issue to discuss the design
 
 ---
@@ -619,13 +619,13 @@ Questions, suggestions, or want to collaborate?
 - LinkedIn: [Roberto Coria Vargas](https://www.linkedin.com/in/roberto-coria-vargas-088231309/)
 - Portfolio: [portfolio-rcv.vercel.app](https://portfolio-rcv.vercel.app/)
 - Email: [roberto21.coria02@gmail.com](mailto:roberto21.coria02@gmail.com)
-- Issues: [github-analytics-dashboard/issues](https://github.com/RobertoCV10/github-analytics-dashboard/issues)
+- Issues: [GitScope/issues](https://github.com/RobertoCV10/GitScope/issues)
 
 ---
 
 Made with care for the developer community.
 
-[Star](https://github.com/RobertoCV10/github-analytics-dashboard/stargazers) · [Fork](https://github.com/RobertoCV10/github-analytics-dashboard/forking) · [Report Issue](https://github.com/RobertoCV10/github-analytics-dashboard/issues)
+[Star](https://github.com/RobertoCV10/GitScope/stargazers) · [Fork](https://github.com/RobertoCV10/GitScope/forking) · [Report Issue](https://github.com/RobertoCV10/GitScope/issues)
 
 ---
 
